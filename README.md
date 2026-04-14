@@ -13,6 +13,9 @@ The analysis focuses on internet sales over a three-year period (2011–2013), w
 ## Business Request
 
 
+## Project Scope
+
+
 ## Project Objectives
 
 
