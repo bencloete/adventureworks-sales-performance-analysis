@@ -2,27 +2,21 @@
 
 ## Project Overview
 
----
 
 ## Business Request
 
----
 
 ## Project Objectives
 
----
 
 ## Key Metrics
 
----
 
 ## Data Source
 
----
 
 ## Data Model
 
----
 
 ## Analysis Workflow
 
@@ -36,18 +30,13 @@
 
 ### 5. Territory Performance Analysis
 
----
-
 ## Key Insights
 
----
 
 ## Recommendations
 
----
 
 ## Dashboard
 
----
 
 ## Repository Contents
