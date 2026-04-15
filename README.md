@@ -72,6 +72,10 @@ Following the definition of the project objectives, the key metrics were selecte
 
 ## Data Source
 
+The analysis uses the AdventureWorksDW2025 data warehouse, a Microsoft sample dataset designed to simulate a real-world business environment. It contains transactional sales data along with product, date, customer, and regional information.
+
+Source: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure
+
 ---
 
 ## Data Model
