@@ -10,6 +10,8 @@ The project follows an end-to-end analytics process, including problem definitio
 
 The analysis focuses on internet sales over a three-year period (2011–2013), with an emphasis on understanding the key drivers of growth across both products and regions.
 
+---
+
 ## Business Request
 
 To simulate a realistic business environment, the project was initiated by generating an executive-level business request. This approach replicates how data analysts typically receive high-level, slightly vague, outcome-focused problems from stakeholders, rather than clearly defined technical tasks.
@@ -27,6 +29,8 @@ The following request was used as the starting point:
 > 
 > I don’t need anything overly complex — I need something that helps us prioritise and make decisions."
 
+---
+
 ## Project Scope
 
 Following the initial business request, the scope of the analysis was refined through stakeholder-style clarification questions to ensure a focused and decision-relevant approach:
@@ -37,6 +41,8 @@ Following the initial business request, the scope of the analysis was refined th
 - **Performance Focus** – Evaluate revenue growth alongside relative profitability to identify areas outperforming or underperforming the overall business
 - **Level of Analysis** – Product (Category → Subcategory → Product) and Region (Territory Group → Country), with drill-down where necessary
 - **Deliverables** – Interactive Power BI dashboard and a concise summary of key insights and business recommendations
+
+---
 
 ## Project Objectives
 
@@ -49,6 +55,8 @@ Building on the defined project scope, the objectives of this analysis focus on 
 - Highlight areas of underperformance across products and regions
 - Provide clear, actionable insights to guide sales prioritisation and investment decisions
 
+---
+
 ## Key Metrics
 
 Following the definition of the project objectives, the appropriate metrics were selected to evaluate sales performance and support the analysis:
@@ -60,11 +68,15 @@ Following the definition of the project objectives, the appropriate metrics were
 - **Orders** – Number of sales transactions
 - **Average Order Value** – Average revenue generated per order
 
+---
+
 ## Data Source
 
+---
 
 ## Data Model
 
+---
 
 ## Analysis Workflow
 
@@ -78,13 +90,18 @@ Following the definition of the project objectives, the appropriate metrics were
 
 ### 5. Territory Performance Analysis
 
+---
+
 ## Key Insights
 
+---
 
 ## Recommendations
 
+---
 
 ## Dashboard
 
+---
 
 ## Repository Contents
