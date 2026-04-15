@@ -32,17 +32,12 @@ The following request was used as the starting point:
 Following the initial business request, the scope was refined through stakeholder-style clarification questions to ensure the analysis remained focused on delivering decision-relevant insights.
 
 - **Primary Decision:** Determine where to prioritise sales resources and investment for the upcoming year  
-
 - **Timeframe:** Analysis covers the last three full years (2011–2013), with a primary focus on year-over-year trends rather than short-term fluctuations  
-
 - **Sales Channel:** Internet sales only, as this channel shows the most growth and offers greater strategic flexibility  
-
 - **Performance Focus:** Emphasis on relative profitability, identifying areas performing above or below average rather than applying fixed margin thresholds  
-
 - **Level of Analysis:**  
   - Product: Category → Subcategory → Product (drill-down where necessary)  
   - Region: Territory Group → Country (drill-down where necessary)  
-
 - **Deliverables:**  
   - Interactive Power BI dashboard for ongoing monitoring  
   - Concise summary of key insights and business recommendations  
