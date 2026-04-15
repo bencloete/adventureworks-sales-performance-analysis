@@ -55,14 +55,16 @@ Key objectives include:
 
 ## Key Metrics
 
-The following metrics were used to evaluate sales performance and support the analysis:
+Following the definition of the project objectives, the appropriate metrics were selected to evaluate sales performance and support the analysis.
 
-- **Revenue** – Total sales value generated
+Key metrics include:
+
+- **Revenue** – Total value of sales generated
 - **Profit** – Revenue minus cost
 - **Profit Margin** – Profit as a percentage of revenue
 - **Units Sold** – Total quantity of products sold
 - **Orders** – Number of sales transactions
-- **Average Order Value** – Revenue per order
+- **Average Order Value** – Average revenue generated per order
 
 ## Data Source
 
