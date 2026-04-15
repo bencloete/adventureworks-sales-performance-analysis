@@ -53,12 +53,12 @@ Following the initial business request, the scope was refined through stakeholde
 
 The following metrics were used to evaluate sales performance and support the analysis:
 
-- **Revenue** – Total sales value generated
-- **Profit** – Revenue minus cost
-- **Profit Margin** – Profit as a percentage of revenue
-- **Units Sold** – Total quantity of products sold
-- **Orders** – Number of sales transactions
-- **Average Order Value** – Revenue per order
+- **Revenue:** Total sales value generated
+- **Profit:** Revenue minus cost
+- **Profit Margin:** Profit as a percentage of revenue
+- **Units Sold:** Total quantity of products sold
+- **Orders:** Number of sales transactions
+- **Average Order Value:** Revenue per order
 
 ## Data Source
 
