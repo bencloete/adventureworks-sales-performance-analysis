@@ -16,17 +16,16 @@ To simulate a realistic business environment, the project was initiated by gener
 
 The following request was used as the starting point:
 
-“We’ve seen decent top-line growth recently, but I’m not convinced we fully understand what’s driving it.
-
-I’d like a clearer view of how we’re performing across products and regions. Specifically, I want to understand:
-
-- Where revenue growth is really coming from
-- Whether that growth is translating into healthy margins
-- Which areas of the business are underperforming
-- Where we should be focusing sales effort and investment going into next year
-
-I don’t need anything overly complex — I need something that helps us prioritise and make decisions.
-
+> “We’ve seen decent top-line growth recently, but I’m not convinced we fully understand what’s driving it.
+> 
+> I’d like a clearer view of how we’re performing across products and regions. Specifically, I want to understand:
+> 
+> - Where revenue growth is really coming from
+> - Whether that growth is translating into healthy margins
+> - Which areas of the business are underperforming
+> - Where we should be focusing sales effort and investment going into next year
+> 
+> I don’t need anything overly complex — I need something that helps us prioritise and make decisions."
 
 ## Project Scope
 
