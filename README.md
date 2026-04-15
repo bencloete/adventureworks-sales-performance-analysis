@@ -29,9 +29,7 @@ The following request was used as the starting point:
 
 ## Project Scope
 
-Following the initial business request, the scope of the analysis was refined through stakeholder-style clarification questions to ensure a focused and decision-relevant approach.
-
-Key elements of the scope include:
+Following the initial business request, the scope of the analysis was refined through stakeholder-style clarification questions to ensure a focused and decision-relevant approach:
 
 - **Primary Decision** – Determine where to prioritise sales resources and investment for the upcoming year
 - **Timeframe** – Analysis covers the last three full years (2011–2013), focusing on year-over-year trends rather than short-term fluctuations
@@ -42,9 +40,7 @@ Key elements of the scope include:
 
 ## Project Objectives
 
-Building on the defined project scope, the objectives of this analysis focus on supporting data-driven decision-making around sales strategy and resource allocation.
-
-Key objectives include:
+Building on the defined project scope, the objectives of this analysis focus on supporting data-driven decision-making around sales strategy and resource allocation:
 
 - Analyse overall sales performance to identify key trends over time
 - Evaluate whether growth is supported by sustainable profitability
@@ -55,9 +51,7 @@ Key objectives include:
 
 ## Key Metrics
 
-Following the definition of the project objectives, the appropriate metrics were selected to evaluate sales performance and support the analysis.
-
-Key metrics include:
+Following the definition of the project objectives, the appropriate metrics were selected to evaluate sales performance and support the analysis:
 
 - **Revenue** – Total value of sales generated
 - **Profit** – Revenue minus cost
