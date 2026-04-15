@@ -59,7 +59,7 @@ Building on the defined project scope, the objectives of this analysis focus on 
 
 ## Key Metrics
 
-Following the definition of the project objectives, the appropriate metrics were selected to evaluate sales performance and support the analysis:
+Following the definition of the project objectives, the key metrics were selected to evaluate sales performance and support the analysis:
 
 - **Revenue** – Total value of sales generated
 - **Profit** – Revenue minus cost
