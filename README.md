@@ -42,6 +42,17 @@ Key elements of the scope include:
 
 ## Project Objectives
 
+Building on the defined project scope, the objectives of this analysis focus on supporting data-driven decision-making around sales strategy and resource allocation.
+
+Key objectives include:
+
+- Analyse overall sales performance to identify key trends over time
+- Evaluate whether growth is supported by sustainable profitability
+- Identify the product categories and subcategories driving sales performance
+- Assess regional contributions to revenue and growth
+- Highlight areas of underperformance across products and regions
+- Provide clear, actionable insights to guide sales prioritisation and investment decisions
+
 ## Key Metrics
 
 The following metrics were used to evaluate sales performance and support the analysis:
