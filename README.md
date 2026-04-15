@@ -58,7 +58,7 @@ The following metrics were used to evaluate sales performance and support the an
 - **Profit Margin** – Profit as a percentage of revenue
 - **Units Sold** – Total quantity of products sold
 - **Orders** – Number of sales transactions
-- **Average Order Value (AOV)** – Revenue per order
+- **Average Order Value** – Revenue per order
 
 ## Data Source
 
