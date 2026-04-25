@@ -80,6 +80,19 @@ Source: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-con
 
 ## Data Model
 
+The analysis is based on a star schema data model within the AdventureWorksDW2025 data warehouse, integrating transactional sales data with product, date, and regional information.
+
+- **FactInternetSales** – transactional sales data containing order-level details, including product, date, quantity, revenue, and cost  
+- **DimDate** – date attributes used for time-based analysis, including year, quarter, and month  
+- **DimProduct** – product-level details, including product name and associated subcategory  
+- **DimProductSubcategory** – grouping of products into subcategories  
+- **DimProductCategory** – high-level product categories  
+- **DimSalesTerritory** – regional information, including territory group, country, and region  
+
+The FactInternetSales table acts as the central fact table, linking product, date, and territory dimensions to each transaction. These relationships enable sales performance to be analysed across time, product hierarchies, and geographic regions.
+
+A curated reporting view (`rpt.vw_internet_sales_reporting`) was used to combine these tables into a single, analysis-ready dataset at the sales order line level.
+
 ---
 
 ## Analysis Workflow
