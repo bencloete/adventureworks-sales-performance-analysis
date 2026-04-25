@@ -8,9 +8,7 @@ This project simulates a real-world data analyst workflow using SQL to analyse i
 
 ## Business Request
 
-To simulate a realistic business environment, the project was initiated by generating an executive-level business request. This approach replicates how data analysts typically receive high-level, slightly vague, outcome-focused problems from stakeholders, rather than clearly defined technical tasks.
-
-The following request was used as the starting point:
+To simulate a realistic business environment, the project was initiated by generating an executive-level business request. This approach replicates how data analysts typically receive high-level, slightly vague, outcome-focused problems from stakeholders, rather than clearly defined technical tasks. The following request was used as the starting point:
 
 > “We’ve seen decent top-line growth recently, but I’m not convinced we fully understand what’s driving it.
 > 
